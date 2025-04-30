@@ -1,7 +1,7 @@
 # Ex-3-RECOGNITION-OF-A-VALID-ARITHMETIC-EXPRESSION-THAT-USES-OPERATOR-AND-USING-YACC
 ### NAME: LAAKSHIT D
 ### REG NO: 212222230071
-# Date: 30-04-25
+### Date: 30-04-25
 ## AIM
 To write a yacc program to recognize a valid arithmetic expression that uses operator +,- ,* and /.
 ## ALGORITHM
